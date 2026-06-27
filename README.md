@@ -6,6 +6,10 @@ Symmetry is widely used to structure quantum neural networks against barren plat
 
 **This repository is a reproducible toolkit that studies how Markovian noise degrades the parameter gradients of a fixed-state U(1)-equivariant brickwork circuit, and identifies the readout-visible aligned sector-coherence rate as the operator-level quantity that controls that degradation.** Every result is produced by a single density-matrix pipeline at fixed circuit geometry, with the noiseless and noisy gradient second moments evaluated under common random numbers so that any measured degradation reflects the physics rather than a sampling artefact. The central response variable is the relative gradient degradation, read against the operator-level coherence-contraction rate of each channel.
 
+
+<img width="2106" height="815" alt="fig01_activity_map" src="https://github.com/user-attachments/assets/816e6803-315a-42a8-b854-daa0a2df3ebd" />
+
+
 ## What does this measure?
 
 For each noise channel the toolkit reports the relative gradient degradation as a function of the accumulated noise-depth product and the worst-case coherence-contraction rate, together with its regression against that rate. The headline empirical findings are:
