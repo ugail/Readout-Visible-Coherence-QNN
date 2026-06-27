@@ -1,0 +1,2 @@
+model,n,alpha_gL,beta_lam,intercept,R2_marginal,R2_conditional,AIC,log_likelihood
+MixedLM log_DM ~ log_gL + log_lam + (1|channel) + (1|depth),96,1.0020390827949086,0.9636245514814505,0.6140790426533355,0.9789286969060771,0.9998434949031566,,181.3461099416479
