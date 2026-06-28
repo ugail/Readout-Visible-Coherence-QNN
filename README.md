@@ -1,4 +1,4 @@
-# Readout-Visible-Coherence-QNN: Sector Coherence and Trainability in Noisy Equivariant Quantum Neural Networks
+# Sector Coherence and Trainability in Noisy Equivariant Quantum Neural Networks
 
 *Readout-visible sector coherence controls active-gradient degradation in noisy equivariant quantum neural networks*, by H. Ugail and N. Howard
 
